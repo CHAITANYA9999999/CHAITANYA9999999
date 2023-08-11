@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width = 200 src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya9999999&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya9999999" /> </p>
+<p align="left" width=300> <img src="https://komarev.com/ghpvc/?username=chaitanya9999999&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya9999999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya9999999" alt="chaitanya9999999" /></a> </p>
 
