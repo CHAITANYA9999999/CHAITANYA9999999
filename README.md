@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Mahajan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/chiknum)
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya9999999" alt="chaitanya9999999" /></a> </p>
 <img align="right" alt="coding" width = 375 src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
