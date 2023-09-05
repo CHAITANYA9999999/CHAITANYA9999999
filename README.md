@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width = 375 src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at https://drive.google.com/drive/folders/1bssEduNtB34Uws1A1BHjF_Q5f3DvH-2J?usp=sharing
 
