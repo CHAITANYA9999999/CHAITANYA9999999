@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **chaitanyamahajan2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JRNU_ufDgx-Uf2UtoVtIkGQ69ikObRW4/view?usp=sharing](https://drive.google.com/file/d/1JRNU_ufDgx-Uf2UtoVtIkGQ69ikObRW4/view?usp=sharing)
-
 - ⚡ Fun fact **I play Chess**
 
 <h3 align="left">Connect with me:</h3>
